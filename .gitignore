@@ -1,0 +1,14 @@
+#Esto es un comentario y es ignora
+
+# el aterisco (*) va ignorar lo q esta en el repositorio local
+
+# ignora todo lo q sea .class de i repositorio local
+*.class
+
+#ignora el directorio especificado
+/Carpeta/
+
+# Excepcion de un archivo en especifico
+!Ejemplo2.class
+
+/Carpeta2/Ejemplo4.java
